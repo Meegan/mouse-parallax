@@ -23,4 +23,3 @@ So how do you use it? Great question!
 	a. call the function jsMouseTrack(integer) to kick it off
 	b. I dunno, party?
 
-So the difference here is anything with a class of move-les will move half as much as move more
