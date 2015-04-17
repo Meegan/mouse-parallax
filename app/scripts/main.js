@@ -85,8 +85,6 @@ var jsMouseTrack = function(drama) {
 
 	masterParent.addEventListener('mousemove', function(e){
 
-		console.log('whaaa');
-
 		for(var i = 0; i < slowChildren.length; i++){
 
 			moveElements(e, slowChildren[i], drama);
