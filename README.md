@@ -23,3 +23,4 @@ So how do you use it? Great question!
 	a. call the function jsMouseTrack(integer) to kick it off
 	b. I dunno, party?
 
+So the difference here is anything with a class of move-less will move half as much as move more elements. They're tied to where the mouse is in relation to the parent element, so I'd recommend making that element full width. Built w/ love by Matt Egan.
