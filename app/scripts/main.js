@@ -103,5 +103,3 @@ var jsMouseTrack = function(drama) {
 	});
 
 };
-
-jsMouseTrack(30);
